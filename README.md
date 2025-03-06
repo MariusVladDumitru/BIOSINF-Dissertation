@@ -16,4 +16,10 @@ Thank you to the original authors of MicroRTS-py, available at [https://github.c
 
 
 # Tools
+- Miniconda or Anaconda
+- Python
 
+# Setup
+- Install Miniconda or Anaconda available at [https://www.anaconda.com/download/](https://www.anaconda.com/download/)
+- Create new conda environment: ```conda create -n BIOSINF-Dissertation```
+- Install python: ```conda install python```
